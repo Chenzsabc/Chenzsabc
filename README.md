@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chenzsabc
+- 👋 Hi, I’m @HesChenZS
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and Lua
 - 💞️ I’m looking to collaborate on developing GTA server
